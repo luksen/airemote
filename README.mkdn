@@ -1,0 +1,4 @@
+A little python script to handle input from the 'AI remote' that came with my
+Mainboard. I wrote this years ago and don't know if it still works but thought 
+it's worth preserving. There's also lots of comments, so it shouldn't be too
+hard to tweak to your preference.
